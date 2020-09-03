@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SydniWardProject1", "SydniWardProject1\SydniWardProject1.csproj", "{97D5301F-BECE-42F3-80F8-838637E0A59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D5301F-BECE-42F3-80F8-838637E0A59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D5301F-BECE-42F3-80F8-838637E0A59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D5301F-BECE-42F3-80F8-838637E0A59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D5301F-BECE-42F3-80F8-838637E0A59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
