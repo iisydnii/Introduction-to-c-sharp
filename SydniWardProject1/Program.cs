@@ -99,12 +99,12 @@ namespace SydniWardProject1
             //	  Celsius to Fahrenheit (it's inverse too),
             //    Kelvin to Celsius (it's inverse too). (Test all these within the Program.cs file!)
 
-            Console.WriteLine("100°K = " + Converter.convertK2F(100) + "°F");//ANSWER
-            Console.WriteLine("100°F = " + Converter.convertF2K(100) + "°K");//ANSWER
-            Console.WriteLine("100°C = " + Converter.convertC2F(100) + "°F");//ANSWER
-            Console.WriteLine("100°F = " + Converter.convertF2C(100) + "°C");//ANSWER
-            Console.WriteLine("100°K = " + Converter.convertK2C(100) + "°C");//ANSWER
-            Console.WriteLine("100°C = " + Converter.convertC2K(100) + "°K");//ANSWER
+            Console.WriteLine("100°K = " + Converter.convertK2F(100) + "°F");//ANSWER 279.66998°F
+            Console.WriteLine("100°F = " + Converter.convertF2K(100) + "°K");//ANSWER 310.92776°K
+            Console.WriteLine("100°C = " + Converter.convertC2F(100) + "°F");//ANSWER 212°F
+            Console.WriteLine("100°F = " + Converter.convertF2C(100) + "°C");//ANSWER 37.77778°C
+            Console.WriteLine("100°K = " + Converter.convertK2C(100) + "°C");//ANSWER -173.15°C
+            Console.WriteLine("100°C = " + Converter.convertC2K(100) + "°K");//ANSWER 373.15°K
 
             Login("Sydni", "sw2001");           // Calling Login method
             Calculator.Calculate();             // Calling calculator file - Calculate method
