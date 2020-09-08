@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3D69EC8A-2400-4A6A-ABFB-32FBC8E22A02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.cs">
+    <Files>
+      <File FileName="Calculator.cs" Line="9" Column="14" />
+      <File FileName="Converter.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Person.cs" Line="11" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SydniWardProject1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
